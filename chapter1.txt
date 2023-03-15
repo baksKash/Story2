@@ -1,1 +1,2 @@
 this is chapter 1 for story2
+I am editing this file through github.
